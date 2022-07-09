@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.f5f45d59.css",
-    "main.js": "/myportfolio/static/js/main.9d7ca825.js",
-    "static/media/linkedin.png": "/myportfolio/static/media/linkedin.39b978e0dfff057adaee.png",
-    "static/media/instagram.png": "/myportfolio/static/media/instagram.30791cba72bcfe586d8d.png",
-    "static/media/github.png": "/myportfolio/static/media/github.33f2e0bac302afac02a0.png",
-    "static/media/facebook.png": "/myportfolio/static/media/facebook.d176d1133478a105841b.png",
+    "main.css": "/myportfolio/static/css/main.25af5475.css",
+    "main.js": "/myportfolio/static/js/main.59340db1.js",
     "static/media/Zomato.png": "/myportfolio/static/media/Zomato.9d170c920d8ac6b9ca87.png",
-    "static/media/twitter.png": "/myportfolio/static/media/twitter.686eb8a87606f2e484df.png",
     "static/media/Coding.png": "/myportfolio/static/media/Coding.0af5b4c60445031d45fd.png",
     "static/media/Resume.pdf": "/myportfolio/static/media/Resume.3e6745dcefca20b749c3.pdf",
     "static/media/Event.png": "/myportfolio/static/media/Event.fbee8a4419a627b76f19.png",
+    "static/media/instagram.png": "/myportfolio/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/cricket.png": "/myportfolio/static/media/cricket.88c979b446942d6ee007.png",
+    "static/media/readingBook.png": "/myportfolio/static/media/readingBook.948edeec11051a51cc0d.png",
     "static/media/Sudoku.png": "/myportfolio/static/media/Sudoku.13fb01eb89ed9ed4b9fc.png",
+    "static/media/traveller.png": "/myportfolio/static/media/traveller.98bd583c4c185fc31492.png",
+    "static/media/github.png": "/myportfolio/static/media/github.553c66159c5672f25df6.png",
+    "static/media/headphones.png": "/myportfolio/static/media/headphones.91e23bd8d09df03a97d2.png",
+    "static/media/badminton.png": "/myportfolio/static/media/badminton.f789194df143546e8c35.png",
+    "static/media/twitter.png": "/myportfolio/static/media/twitter.894988327f8d68209e91.png",
+    "static/media/linkedin.png": "/myportfolio/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/myportfolio/index.html",
-    "main.f5f45d59.css.map": "/myportfolio/static/css/main.f5f45d59.css.map",
-    "main.9d7ca825.js.map": "/myportfolio/static/js/main.9d7ca825.js.map"
+    "main.25af5475.css.map": "/myportfolio/static/css/main.25af5475.css.map",
+    "main.59340db1.js.map": "/myportfolio/static/js/main.59340db1.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5f45d59.css",
-    "static/js/main.9d7ca825.js"
+    "static/css/main.25af5475.css",
+    "static/js/main.59340db1.js"
   ]
 }
