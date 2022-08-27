@@ -22,9 +22,18 @@ export const ProjectData=[
         title:"Sudoku",
         about:"This is normal small sudoku game just for fun  built on HTML5/CSS3 javascript",
         tags:["HTML","CSS","JavaScript"],
-        demo:"https://omiiiiiii.github.io/sudokuOm.github.io/",
+        demo:"https://omiiiiiii.github.io/cred-clone/",
         github:"https://github.com/omiiiiiii/sudokuOm.github.io",
         image:require('../../asset/project/Sudoku.png')  
+    },
+    {
+        id:4,
+        title:"Cred-Clone",
+        about:"This is standard Cred-clone using built on ReactJS javascript",
+        tags:["ReactJS","JavaScript","Html/CSS"],
+        demo:"https://omiiiiiii.github.io/cred-clone/",
+        github:"https://github.com/omiiiiiii/cred-clone",
+        image:require('../../asset/project/Cred.png')  
     }
 
 ]
