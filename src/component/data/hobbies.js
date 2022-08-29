@@ -16,7 +16,7 @@ export const Hobby=[
         icon:require('../../asset/hobby/traveller.png')
     },
     {
-        name:"Listning Song",
+        name:"Listening Song",
         icon:require('../../asset/hobby/headphones.png')
         // icon:require('../../asset/icon/twitter.png')
     }
