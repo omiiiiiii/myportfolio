@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.0b26c7bb.css",
-    "main.js": "/myportfolio/static/js/main.dec14246.js",
+    "main.js": "/myportfolio/static/js/main.5cffd563.js",
     "static/media/Cred.png": "/myportfolio/static/media/Cred.9ac389f990e815660082.png",
     "static/media/Zomato.png": "/myportfolio/static/media/Zomato.9d170c920d8ac6b9ca87.png",
     "static/media/Coding.png": "/myportfolio/static/media/Coding.0af5b4c60445031d45fd.png",
     "static/media/Event.png": "/myportfolio/static/media/Event.fbee8a4419a627b76f19.png",
+    "static/media/Resume.pdf": "/myportfolio/static/media/Resume.4fccffd82ef93bcbe5df.pdf",
     "static/media/instagram.png": "/myportfolio/static/media/instagram.e719d8b29f452a16302d.png",
-    "static/media/Resume.pdf": "/myportfolio/static/media/Resume.b3f6b35da08d3a31b981.pdf",
     "static/media/cricket.png": "/myportfolio/static/media/cricket.88c979b446942d6ee007.png",
     "static/media/readingBook.png": "/myportfolio/static/media/readingBook.948edeec11051a51cc0d.png",
     "static/media/Sudoku.png": "/myportfolio/static/media/Sudoku.13fb01eb89ed9ed4b9fc.png",
@@ -19,10 +19,10 @@
     "static/media/linkedin.png": "/myportfolio/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/myportfolio/index.html",
     "main.0b26c7bb.css.map": "/myportfolio/static/css/main.0b26c7bb.css.map",
-    "main.dec14246.js.map": "/myportfolio/static/js/main.dec14246.js.map"
+    "main.5cffd563.js.map": "/myportfolio/static/js/main.5cffd563.js.map"
   },
   "entrypoints": [
     "static/css/main.0b26c7bb.css",
-    "static/js/main.dec14246.js"
+    "static/js/main.5cffd563.js"
   ]
 }
